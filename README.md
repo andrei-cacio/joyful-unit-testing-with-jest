@@ -1,2 +1,2 @@
-# joyful-unit-testing-with-jest
+# Joyful Unit Testing With Jest
 Jest playground
