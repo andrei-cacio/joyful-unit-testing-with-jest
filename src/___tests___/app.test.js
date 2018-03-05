@@ -1,4 +1,4 @@
-import sum from './app';
+import sum from '../app';
 
 describe('sum', () => {
   it('should add two numbers', () => {
